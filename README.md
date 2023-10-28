@@ -1,4 +1,31 @@
-### Hi there 👋
+### Hi there,I'am JacksonTsai 👋
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: [1304240642@qq.com](1304240642@qq.com)
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/m0_46983722?spm=1000.2115.3001.5343)
+
+![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JieHaoCai&layout=compact&theme=tokyonight)   ![](https://github-readme-stats.vercel.app/api?username=JieHaoCai&show_icons=true&theme=transparent)
+
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=你的Github用户名&theme=dracula)
+
+
+
+
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/JieHaoCai/count.svg)
+
+
+
+
 
 <!--
 **JieHaoCai/JieHaoCai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
